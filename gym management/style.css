@@ -1,0 +1,15 @@
+.gym-logo {
+    width: 200px; /* Adjust the size */
+    border-radius: 10px; /* Add rounded corners */
+    display: block;
+    margin: 20px auto; /* Center the image */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow */
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    bottom: 20px;
+}
